@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a merge test file.
+=======
+this is the another test file
+>>>>>>> tester
